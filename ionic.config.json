@@ -1,0 +1,7 @@
+{
+  "name": "photo-gallery tabs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
